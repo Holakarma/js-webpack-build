@@ -8,6 +8,7 @@
 - svgr loader (for using svg like component)
 - react fast refresh
 - env variables
+- prettier & eslint config
 
 
 ### scripts:
